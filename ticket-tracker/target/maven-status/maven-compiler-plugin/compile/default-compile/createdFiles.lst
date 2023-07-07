@@ -1,0 +1,5 @@
+com/examlpe/tickettracker/controller/TicketController.class
+com/examlpe/tickettracker/Entity/Ticket.class
+com/examlpe/tickettracker/TicketTrackerApplication.class
+com/examlpe/tickettracker/dao/TicketRepository.class
+com/examlpe/tickettracker/service/TicketService.class
